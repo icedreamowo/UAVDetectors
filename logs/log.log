@@ -1,0 +1,46 @@
+[21:51:11][UDPServer.java]Try to start
+[21:51:11][UDPServer.java]Online(using port:28888)
+[21:51:11][UDPServer.java]data:Self Checking(127.0.0.1:28888)...
+[21:51:11][UDPServer.java]length:33
+[21:51:11][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[],"convergenceList":[],"labelList":[],"timestamp":1557064271106}
+[21:51:13][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":11.040771732369524,"yCoordinate":29.481139039302917,"zCoordinate":89.83482410349214,"timestamp":1557064271124,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064273159}
+[21:51:15][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":11.040771732369524,"yCoordinate":29.481139039302917,"zCoordinate":89.83482410349214,"timestamp":1557064271124,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064275164}
+[21:51:16][UDPServer.java]data:
+[21:51:16][UDPServer.java]length:0
+[21:51:17][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":39.183794729800624,"yCoordinate":97.3166831221757,"zCoordinate":3.5126505523940588,"timestamp":1557064276122,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064277168}
+[21:51:19][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":39.183794729800624,"yCoordinate":97.3166831221757,"zCoordinate":3.5126505523940588,"timestamp":1557064276122,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064279172}
+[21:51:21][UDPServer.java]data:
+[21:51:21][UDPServer.java]length:0
+[21:51:21][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":97.04659671646625,"yCoordinate":73.32227797091915,"zCoordinate":36.25399367560234,"timestamp":1557064281123,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064281176}
+[21:51:23][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":97.04659671646625,"yCoordinate":73.32227797091915,"zCoordinate":36.25399367560234,"timestamp":1557064281123,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064283179}
+[21:51:25][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":97.04659671646625,"yCoordinate":73.32227797091915,"zCoordinate":36.25399367560234,"timestamp":1557064281123,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064285183}
+[21:51:26][UDPServer.java]data:
+[21:51:26][UDPServer.java]length:0
+[21:51:27][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":88.50091640744193,"yCoordinate":46.62090003190662,"zCoordinate":6.547319759827253,"timestamp":1557064286124,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064287187}
+[21:51:29][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":88.50091640744193,"yCoordinate":46.62090003190662,"zCoordinate":6.547319759827253,"timestamp":1557064286124,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064289191}
+[21:51:31][UDPServer.java]data:
+[21:51:31][UDPServer.java]length:0
+[21:51:31][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":41.461300804461246,"yCoordinate":50.11067053604699,"zCoordinate":33.709447464037254,"timestamp":1557064291124,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064291194}
+[21:51:33][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":41.461300804461246,"yCoordinate":50.11067053604699,"zCoordinate":33.709447464037254,"timestamp":1557064291124,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064293197}
+[21:51:35][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":41.461300804461246,"yCoordinate":50.11067053604699,"zCoordinate":33.709447464037254,"timestamp":1557064291124,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064295200}
+[21:51:36][UDPServer.java]data:
+[21:51:36][UDPServer.java]length:0
+[21:51:37][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":43.71205336641126,"yCoordinate":49.82884549854219,"zCoordinate":0.12945071307988165,"timestamp":1557064296124,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064297204}
+[21:51:39][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":43.71205336641126,"yCoordinate":49.82884549854219,"zCoordinate":0.12945071307988165,"timestamp":1557064296124,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064299206}
+[21:51:41][UDPServer.java]data:
+[21:51:41][UDPServer.java]length:0
+[21:51:41][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":17.963404530911,"yCoordinate":73.4125433501865,"zCoordinate":63.49809743424271,"timestamp":1557064301125,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064301209}
+[21:51:43][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":17.963404530911,"yCoordinate":73.4125433501865,"zCoordinate":63.49809743424271,"timestamp":1557064301125,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064303212}
+[21:51:45][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":17.963404530911,"yCoordinate":73.4125433501865,"zCoordinate":63.49809743424271,"timestamp":1557064301125,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064305214}
+[21:51:46][UDPServer.java]data:
+[21:51:46][UDPServer.java]length:0
+[21:51:47][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":67.31734967932339,"yCoordinate":0.2567885238525136,"zCoordinate":93.29018126746422,"timestamp":1557064306125,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064307217}
+[21:51:49][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":67.31734967932339,"yCoordinate":0.2567885238525136,"zCoordinate":93.29018126746422,"timestamp":1557064306125,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064309220}
+[21:51:51][UDPServer.java]data:
+[21:51:51][UDPServer.java]length:0
+[21:51:51][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":38.159720016349084,"yCoordinate":96.90966127916525,"zCoordinate":83.39189343875825,"timestamp":1557064311125,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064311223}
+[21:51:53][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":38.159720016349084,"yCoordinate":96.90966127916525,"zCoordinate":83.39189343875825,"timestamp":1557064311125,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064313227}
+[21:51:55][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":38.159720016349084,"yCoordinate":96.90966127916525,"zCoordinate":83.39189343875825,"timestamp":1557064311125,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064315231}
+[21:51:56][UDPServer.java]data:
+[21:51:56][UDPServer.java]length:0
+[21:51:57][MongoDBDriver.java]{"projectName":"ZJlab. Project","relayList":[{"targetName":"GENERATE4DEBUG","xCoordinate":34.14397931858743,"yCoordinate":28.92661219593431,"zCoordinate":82.81817806322577,"timestamp":1557064316126,"stationLabelType":1,"dimensionType":3}],"convergenceList":[],"labelList":[],"timestamp":1557064317234}
